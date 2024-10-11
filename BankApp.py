@@ -80,7 +80,8 @@ while(True):
     4.DEPOSIT
     5.FUND TRANSFER
     6.PRINT TRANSACTIONS
-    7.EXIT
+    7.CHECK BALANCE
+    8.EXIT
 Select option you want:''')
     choice=int(input())
     if choice==1:
